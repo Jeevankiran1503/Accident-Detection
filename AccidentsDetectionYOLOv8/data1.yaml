@@ -1,0 +1,5 @@
+train: C:\Users\jeeva\Desktop\Expo\AccidentsDetectionYOLOv8\train\images
+val: C:\Users\jeeva\Desktop\Expo\AccidentsDetectionYOLOv8\valid\images
+test: C:\Users\jeeva\Desktop\Expo\AccidentsDetectionYOLOv8\test\images
+nc: 2
+names: ['Accident','no Accident']
