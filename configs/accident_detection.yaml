@@ -1,0 +1,5 @@
+train: AccidentsDetectionYOLOv8/train/images
+val: AccidentsDetectionYOLOv8/valid/images
+test: AccidentsDetectionYOLOv8/test/images
+nc: 2
+names: ['Accident', 'no_Accident']
